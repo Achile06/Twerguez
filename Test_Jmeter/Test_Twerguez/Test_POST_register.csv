@@ -1,0 +1,15 @@
+username,password,confirm_password,email,responseCode
+ChristopheMillon,passwd,passwd,christophe@gmail.com,200
+ChristopheMillon,passwd,passwd1,christophe.millon@gmail.com,403
+Christophe Millon,passwd,passwd,christophe@gmail.com,403
+ChristopheMill©n,passwd,passwd,ChristopheMillon@gmail.com,403
+Christ@phe,passwd,passwd,christophe@gmail.com,403
+Christopheeeeeeeeeeeeeee,passwd,passwd,christophe@gmail.com,403
+Christophe,passwd,,christophe@gmail.com,403
+Christophe,,passwd,christophe@gmail.com,403
+Christophe,password,password,,403
+christophe,password,password,christophe@gmailcom,403
+christophe,password,password,christophegmail.com,403
+ChristopheMillon,p,p,christophe@gmail.com,403
+christophe,password,password,christophe@com,403
+,,,,403

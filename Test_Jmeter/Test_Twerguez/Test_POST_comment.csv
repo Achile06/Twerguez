@@ -1,0 +1,9 @@
+TweetId,Texte,ResponseCode;
+1,TexteTest,200;
+1,TexteTest,409;
+951951,TexteTest,404;
+,TexteTest,404;
+1,,403;
+1,TexteTest,403;
+1,TestDePlusDe120Caracteresthhgfsgbhyrsdvghjjutqsdfghjklmpoiuytrezsdfghjklpoiuytredfghjklpoiuytrezamlkjhgfdsqpoiuytrenbvcxwijuhgfdsiuytrezlkjhgfdsiuytrfdkjhgfdsqoiuytrezkjhgfdoiuytrekjhgfdiuytrekjhgfdiuytrfkjhgfdsiuyt,403;
+1,&TestAvecCaractèresSpéciaux!:;987654321@ç^é,200

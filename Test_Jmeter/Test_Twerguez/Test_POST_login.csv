@@ -1,0 +1,7 @@
+user,password,responseCode
+christophe,passwd,200
+,passwd,403
+christophe,,403
+christophe,pass,403
+chrissssssssssssssssssssssssssssssssssssssssssssssssssssss,passwd,403
+,,403

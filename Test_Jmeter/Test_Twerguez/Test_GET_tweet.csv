@@ -1,0 +1,21 @@
+ResponseCode
+200
+404
+
+200: 
+ArrayList
+{
+    "Id": 0,
+    "Text": "string",
+    "Created_at": "string",
+    "ImageRef": "string",
+    "Comments": {
+      "Id": 0,
+      "Text": "string",
+      "Publication_Date": {}
+    },
+    "AuthorId": 0
+  }
+ 
+404:
+Tweet not Found
